@@ -1,0 +1,22 @@
+<catalogo>
+  <producto>
+    <id>1</id>
+    <nombre>Pan integral</nombre>
+    <precio>70</precio>
+  </producto> 
+  <producto>
+    <id>2</id>
+    <nombre>Baguette</nombre>
+    <precio>300</precio>
+  </producto>
+  <producto>
+    <id>3</id>
+    <nombre>Pan de caja </nombre>
+    <precio>1300</precio>
+  </producto>
+  <producto>
+    <id>4</id>
+    <nombre>Croissant</nombre>
+    <precio>3700</precio>
+  </producto>
+</catalogo>
